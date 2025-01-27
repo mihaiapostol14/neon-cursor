@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: #000;
+    overflow: hidden;
+    cursor: none; /* Hide the default cursor */
+  }
+  
+  .neon-dot {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: rgba(0, 255, 255, 0.7);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.7);
+    pointer-events: none;
+  }
+  
