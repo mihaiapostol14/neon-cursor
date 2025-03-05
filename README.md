@@ -1,6 +1,21 @@
 # Neon Dot Cursor Effect
 
-This project creates a visually appealing neon dot trail effect that follows the user's mouse movements on a webpage. The effect is implemented using JavaScript and dynamically creates multiple dots that smoothly follow the cursor.
+This project creates a visually appealing neon dot trail effect that follows the user's mouse movements on a webpage. The effect is implemented using JavaScript and dynamically creates multiple dots that smoothly follow the cursor, creating a neon trail effect.
+
+## Repository Overview
+
+- **Repository Name**: neon-cursor
+- **Owner**: [mihaiapostol14](https://github.com/mihaiapostol14)
+- **Primary Language**: JavaScript
+- **Other Languages**: CSS, HTML
+- **Created**: 37 days ago
+- **Last Pushed**: January 27, 2025
+- **Visibility**: Public
+- **Default Branch**: main
+- **Open Issues**: 0
+- **Forks**: 0
+- **Stargazers**: 0
+- **Watchers**: 0
 
 ## How It Works
 
@@ -61,5 +76,13 @@ This effect can be used to enhance the interactivity and visual appeal of websit
 - Interactive landing pages
 - Gaming websites
 - Creative projects
+
+## Cloning the Repository
+
+To clone this repository, use the following command:
+
+```sh
+git clone https://github.com/mihaiapostol14/neon-cursor.git
+```
 
 Enjoy experimenting with the neon dot cursor effect!
